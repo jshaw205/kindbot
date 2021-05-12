@@ -1,0 +1,18 @@
+{
+  "name": "kindbot",
+  "version": "1.0.0",
+  "description": "A Discord bot that automates stuff badly",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^9.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.26.0"
+  }
+}
