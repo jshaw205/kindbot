@@ -43,5 +43,5 @@ client.on('message', message => {
 	}
 });
 
-// bot token is in plaintext here, ONLY FOR TESTING BEFORE COMMITTING TO GIT
+// login with client token
 client.login(token);
