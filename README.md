@@ -1,4 +1,7 @@
 # kindbot
+
+**VERY IMPORTANT NOTE: I developed this bot waaaaaay before Discord added lots of interesting functionality to interact with bots in a nicer way. I wouldn't use this if I were you, but I'm keeping it here anyway."
+
 A Discord bot that automates a few things. Feel free to use it if any of the commands look useful.
 
 <h2>Current Functionality</h2>
